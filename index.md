@@ -5,18 +5,18 @@ layout: home
 ---
 
 
-## Full-time journalist
+# Full-time journalist
 I've spent years working in professional newsrooms, learning the craft of public service journalism one deadline at a time. I've covered public meetings, political campaigns and court proceedings, routine governance, community triumphs and the occasional tragedy.
 
 When news breaks, I pick up the phone and make calls. When one of my stories hits a nerve, I take them. By listening on both counts, I've begun to understand the world and its people. 
 
-## FLAG Part-time programmer
+# Part-time programmer
 
 A self-taught developer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling - sometimes, even, on deadline.
 
 I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactives. 
 
-## One-time engineer
+# One-time engineer
 
 With a degree in civil engineering, I'm an infrastructure geek by inclination and solutions-minded by training. Working with domestic and international projects as a student, I learned the import of basic services like drinking water. I was also taught how physical infrastructure relies on human institutions - the legal, financial and political systems that provide a foundation for building prosperity.
 
