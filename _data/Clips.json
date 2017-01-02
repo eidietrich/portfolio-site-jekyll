@@ -1,0 +1,108 @@
+{
+    "clips": [
+        {
+            "link": "http://www.bozemandailychronicle.com/special_reports/growth/",
+            "headline": "How will we grow?",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "",
+            "blurb": "<p>A recurring feature series, with installments exploring particular dynamics around population growth in the Bozeman area, one of the fastest-growing micropolitan regions in the nation.</p><p>The best work in this series has been able to blend data-based reporting and narrative storytelling with a solutions-focused mindset, driving informed conversations on what's probably the highest-profile issue faced by the Chronicle's audience.</p>",
+            "category": "Series"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/big-sky-crowded-growth-density-and-the-future-of-the/article_62038e76-8783-5b64-a900-466cfb0a29fd.html",
+            "headline": "Big Sky Crowded: Growth, density and the future of the Gallatin Valley",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Jan. 31, 2016",
+            "blurb": "<p>The opening piece in the 'How will we grow?' series, framing its focus and exploring one of the central contradictions behind the area's real estate boom: That the quintessentially Montanan desire to have a few acres of elbow room may end up dooming our open space to a future defined by rural sprawl.</p>",
+            "category": "Features"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/neighbors-may-protest-density-but-bozeman-s-future-is-infill/article_bf772fc0-c3cb-50a3-b958-7202f5863297.html",
+            "headline": "The D-word: Neighbors may protest density, but Bozeman’s future is infill, sprawl or pricier housing",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "July 10, 2016",
+            "blurb": "<p>An effort to pin down the land use trade-offs the city faces as its planners, elected officials and citizens debate the merits and downsides of higher-intensity development. Also included a sidebar mapping relative lot sizes to estimate residential density in several of the city's neighborhoods.</p>",
+            "category": "Features"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/incompatible-uses-why-the-neighborhood-next-to-an-old-landfill/article_c7ced9d2-20ea-5d5b-925b-6a1089fb134e.html",
+            "headline": "Incompatible uses: Why the neighborhood next to an old landfill may cost Bozeman millions",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "March 22, 2015",
+            "blurb": "<p>Back in the 1990s, Bozeman officials approved a high-end neighborhood adjacent to the then-operational municipal landfill. With the present-day city facing a wave of lawsuits over subsurface fumes seeping from the now-decommissioned facility, I dug through the project's public record to sort out what was considered - and what wasn't - as city planners reviewed the development, designed by a prominent local engineering firm.</p><p>Follow-up coverage included stories on <a href='http://www.bozemandailychronicle.com/news/city/study-radon-a-bigger-threat-than-landfill-gases-in-bridger/article_a022fd7b-5a5f-5c21-8aaa-ce1838f28186.html'>a city-commissioned health study</a>, the engineering firm <a href='http://www.bozemandailychronicle.com/news/city/engineering-firm-says-it-owed-homebuyers-near-landfill-no-duty/article_c3fe2f25-ffc6-5a6f-8357-93075e83c852.html'>denying responsibility</a>, and <a href='http://www.bozemandailychronicle.com/news/city/m-settlement-proposed-in-bozeman-landfill-lawsuits/article_22f48daa-7b73-501f-856c-53e255796314.html'>a multi-million-dollar settlement</a>.</p>",
+            "category": "Features"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/bozeman-walkability-interactive/html_fa0d8038-a3a9-570b-9aa5-996535a16a4a.html",
+            "headline": "How walkable is your Bozeman neighborhood?",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Sept. 8, 2016",
+            "blurb": "<p>An interactive map allowing readers to explore neighborhood walkability by indicating a location in town and returning information on the distance to establishments like restaurants and grocery stores.</p>",
+            "category": "Data journalism"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/blogs/city/getting-a-handle-on-bozeman-s-budget/article_8ebe8f60-6dde-56e8-929d-8756366b8241.html",
+            "headline": "Getting a handle on Bozeman’s budget",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "June 20, 2016",
+            "blurb": "<p>An interactive using a sankey diagram to visualize money flowing through a proposed city budget from tax collections to spending areas like police, parks and infrastructure. Designed to highlight comparisons like the fraction of city revenue coming from property taxes, and the cost of infrastructure investments compared to other city services.</p>",
+            "category": "Data journalism"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/growth-and-taxes-costs-for-governments-and-property-owners-add/article_8ff42c1c-dd3e-5d04-881e-72a6a2d27dc4.html",
+            "headline": "Growth and Taxes: Costs for governments and property owners add up as Bozeman expands",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "June 5, 2016",
+            "blurb": "<p>A data-heavy feature aiming to round out a long-running local debate over whether population growth pays for itself in terms of property tax burden. I analyzed years of tax data and financial reports produced by the city, county and local school district, concluding that most city homeowners were seeing higher taxes despite an expanding tax base. I was also able to use property tax records to track down a bona fide median taxpayer for an interview.</p>",
+            "category": "Data journalism"
+        },
+        {
+            "link": "",
+            "headline": "Bozeman City Commission debating budget, tax increases Monday night",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "June 19, 2016",
+            "blurb": "<p>A preview story in advance of the city's annual budgeting session. Thinking nobody would get past the snoozer topic (and headline to match), I decided I might as well get frisky with the tone —- and actually ended up spurring <a href='http://www.bozemandailychronicle.com/opinions/letters_to_editor/dietrich-doing-fine-job-covering-city-government/article_40912bd3-b30d-5b22-8ba2-a9f82df78ee6.html'>fan mail</a>.</p>",
+            "category": "Beat reporting"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",
+            "headline": "Oracle moving Bozeman jobs to Texas; sources say more than 100 affected",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Sept. 7, 2016",
+            "blurb": "<p>A shared byline story that broke a major local business story with political implications for Montana's gubernatorial race.</p>",
+            "category": "Beat reporting"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/bozeman-outreach-effort-aims-to-quiet-the-college-bar-crowd/article_98b2354e-f3db-5416-8639-1ab2e5bc4068.html",
+            "headline": "Bozeman outreach effort aims to quiet the college bar crowd",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Sept. 11, 2016",
+            "blurb": "Hoping to shush Friday-night revelers walking home through sleeping neighborhoods, the city neighborhood coordinator and a children's librarian set up a late-night lemonade stand. What could possibly go wrong - or, it turns out - right?</p>",
+            "category": "Beat reporting"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/face-of-change-is-andy-holloran-reshaping-downtown-the-hero/article_ab711917-6b8f-58c2-bfe9-75be50b62d35.html",
+            "headline": "Face of Change: Is Andy Holloran, reshaping downtown, the hero Bozeman needs?",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Nov. 21, 2016",
+            "blurb": "<p>A profile of a prominent Bozeman real estate developer whose efforts, nearly singlehandedly, are bringing more change to Bozeman's downtown skyline than the city has seen since the late 1920s.</p>",
+            "category": "Characters"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/city/longtime-haufbrau-filling-station-owner-remembered/article_e11ff1e4-b107-532d-8b17-3840c997290f.html",
+            "headline": "Longtime Haufbrau, Filling Station owner remembered",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "June 10, 2016",
+            "blurb": "<p>A feature obit on Don Frye Sr., who ran a pair of dive bars with his wife and sons for decades - and ended up beloved for it.</p>",
+            "category": "Characters"
+        },
+        {
+            "link": "http://www.bozemandailychronicle.com/news/dailyfeatures/a-story-you-couldn-t-make-up-a-traveler-an/article_d1566867-4d31-5159-a922-a36579d54cbf.html",
+            "headline": "A story you couldn’t make up: A traveler, an alpaca and guns",
+            "publication": "Bozeman Daily Chronicle",
+            "date": "Aug. 15, 2015",
+            "blurb": "<p>Bozeman's college-town police blotter is an institution unto itself, but even by its standards the focus of this profile, 'Tinker' D'Harra, had an unusual run of encounters with law enforcement. It took me a couple days of looking, but I tracked him down for the back story - as he told it, at least.</p>",
+            "category": "Characters"
+        }
+    ]
+}
