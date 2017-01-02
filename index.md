@@ -10,7 +10,7 @@ I've spent years working in professional newsrooms, learning the craft of public
 
 When news breaks, I pick up the phone and make calls. When one of my stories hits a nerve, I take them. By listening on both counts, I've begun to understand the world and its people. 
 
-## Part-time programmer
+## FLAG Part-time programmer
 
 A self-taught developer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling - sometimes, even, on deadline.
 
