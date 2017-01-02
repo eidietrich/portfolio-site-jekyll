@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <!-- Dump data for debugging -->
+  <!-- {{ site.data.clips | json }} -->
+
+  <div class="clips">
+    {% for clip in site.data.clips %}
+      <div class="clip">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+            <h3><a href="{{clip.link}}">{{ clip.headline}}</a></h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <p class="publication">{{ clip.publication }}</p>
+            <p class="publication-date">{{ clip.date }}</p>
+          </div>
+          <div class="col-xs-12 col-sm-9">
+            <div class="clip-blurb">{{ clip.blurb }}</div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+</article>
