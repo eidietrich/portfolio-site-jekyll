@@ -3,6 +3,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: home
+order: -1
 ---
 
 
