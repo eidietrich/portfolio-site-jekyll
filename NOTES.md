@@ -1,12 +1,10 @@
 # NOTES
 
-
-
 ## TODO:
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
 - Tweak formatting 
 - Fine-tune site description formatting
-- Make Clips work
+- Add categories to Clips
 
 - Pass by Brent, Audrey, Derek
 

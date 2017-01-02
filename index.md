@@ -2,6 +2,7 @@
 # Markdown content for site home page
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+order: -1
 ---
 
 ## Full-time journalist
