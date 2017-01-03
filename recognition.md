@@ -5,8 +5,6 @@ permalink: /recognition/
 order: 4
 ---
 
-## Professional awards
-
 ### 2016 SPJ Northwest Excellence in Journalism Contest
 
 (Medium daily print and online)
@@ -28,8 +26,7 @@ order: 4
 
 - **Choice Local News Writer**
 
----
-## Reader praise
+### Praise from actual readers
 
 Letter [writer](http://www.bozemandailychronicle.com/opinions/letters_to_editor/dietrich-doing-fine-job-covering-city-government/article_40912bd3-b30d-5b22-8ba2-a9f82df78ee6.html), on a budget hearing [preview piece](http://www.bozemandailychronicle.com/news/city/bozeman-city-commission-debating-budget-tax-increases-monday-night/article_b337d1b8-0451-53ce-b795-c93180feddb5.html):
 > Eric piqued my interest with his second paragraph:

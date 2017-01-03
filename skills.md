@@ -16,7 +16,7 @@ Familiar tools:
     -  [2017 Bozeman budget flow diagram](http://www.bozemandailychronicle.com/bozeman-budget-flow-diagram/html_8049a0a4-efdc-5cc1-9aae-8566819ab646.html) - Interactive sankey diagram visualizing a proposed municipal budget.
 - **[Leaflet.js](http://leafletjs.com/)** - Used for developing customized web maps, e.g. [this interactive](http://bozemandailychronicle.com/app/newsroom/walkability/index.html) exploration of neighborhood walkability. Also used for simpler projects, like [this map](http://www.bozemandailychronicle.com/bozeman-sidewalk-gaps/html_4f446e5e-6ea1-58dd-9d9c-673d4a11d59b.html) of gaps in the city sidewalk grid.
 - **[Node.js](https://nodejs.org/en/)** - I'm comfortable working in a Node.js-based development environment, and have a working understanding of build tools like Babel, Webpack and Gulp.
-- **[React.js](https://facebook.github.io/react/)** - I've used React for web development in small personal projects. One example is this site, a simple CMS that pulls content from markdown and json files.
+- **[React.js](https://facebook.github.io/react/)** - I've used React for web development in small personal projects.
 
 ### Python for data wrangling
 
