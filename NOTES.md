@@ -10,7 +10,6 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 
 ## TODO:
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
-- Tweak formatting 
 - Fine-tune site description formatting
 - Figure out how to automate a deploy command (build a bash script)
 - Optimize hero image (mobile v desktop versions?)
