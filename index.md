@@ -14,9 +14,9 @@ When news breaks, I pick up the phone and make calls. When one of my stories hit
 
 ### Part-time programmer
 
-A self-taught developer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling - sometimes, even, on deadline.
+A self-taught developer and designer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling - sometimes, even, on deadline.
 
-I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactives. 
+I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactive graphics. 
 
 ### Onetime engineer
 

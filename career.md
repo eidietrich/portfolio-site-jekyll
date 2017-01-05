@@ -9,9 +9,9 @@ order: 1
 ### Bozeman Daily Chronicle
 **City Hall Reporter** | *Nov. 2014 - Present*
 
-Covering local government and land use planning in one of America's fastest-growing micropolitan cities ([recent stories](https://www.bozemandailychronicle.com/users/profile/edietrich/)).
-* Producing a solutions-minded [major feature series](http://www.bozemandailychronicle.com/special_reports/growth/) exploring the implications of population growth and planning policy.
-* Keeping an occasionally updated [City Beat blog](http://www.bozemandailychronicle.com/blogs/city/), featuring web-only graphics, supplemental reporting and aggregation
+Covering local government and land use planning in one of America's fastest-growing micropolitan cities ([recent stories](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"}).
+* Producing a solutions-minded [major feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy.
+* Keeping an occasionally updated [City Beat blog](http://www.bozemandailychronicle.com/blogs/city/){:target="_blank"}, featuring web-only graphics, supplemental reporting and aggregation
 * Work routinely incorporates data elements for reporting and storytelling
 
 ### Great Falls Tribune
@@ -24,7 +24,7 @@ Cut my teeth as a cub reporter rewriting police affidavits for a daily paper in 
 ### Montana State University Exponent
 **Editor-in-Chief/Publisher, News Editor, Columnist, Reporter** | *2008 - 2013*
 
-Led production an award-winning weekly paper on a campus without a journalism program. Publication was recognized in 2011 as an Associated Collegiate Press Pacemaker Finalist.
+Led a 50-student staff in producing a weekly paper on a campus without a journalism program. Publication was recognized in 2011 as an Associated Collegiate Press Pacemaker Finalist.
 * Managed a $100,000 annual budget, including $50,000 in advertising revenue
 * Prevented the publication's bankruptcy by rebuilding business operations in the aftermath of a $34,000 budget shortfall
 * Developed a publication board to involve media professionals in mentoring and operational oversight, separating the paper's management from direct supervision by student government

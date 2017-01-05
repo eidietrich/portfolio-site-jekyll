@@ -1,6 +1,8 @@
 /* Site-specific css */
 
-
+body {
+  font-family: 'Roboto Slab', serif;
+}
 
 /* Intro / hero image */
 .intro {
@@ -50,6 +52,7 @@
   padding-bottom: 5px;
   padding-top: 5px;
   height: 60px;
+  margin: 0 auto;
 }
 
 .page-button {
@@ -87,6 +90,8 @@ h1, h3 {
   text-transform: uppercase;
   font-size: 18px;
   color: #888;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .post-content h3 {
@@ -96,7 +101,7 @@ h1, h3 {
 /* Custom layout stuff */
 
 .wrapper {
-  max-width: 600px;
+  max-width: 800px;
 }
 
 /* Clips page formatting */

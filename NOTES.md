@@ -12,12 +12,24 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
 - Tweak formatting 
 - Fine-tune site description formatting
-- Add categories to Clips
 - Figure out how to automate a deploy command (build a bash script)
 - Optimize hero image (mobile v desktop versions?)
 - Try to clean up CSS (can I remove Bootstrap?)
+- Add photography/videography to skils section
+- Add Jekyll to skills section (or web development)
+- Refine clips: Remove city budget story? Add Data piece on bars.
+- Try replacing 2x2 button grid with a list
+- Improve favicon
+- Add Email icon to footer
+- Clips page: Look at highlighting different sections
+- Skills page: Lengthy headers --> Short headers and subheaders
 
-- Pass by Brent, Audrey, Derek
+- Pass by Brent
+
+Q's for Audrey
+- What do you mean by "current page differentiation"? Highlighting the currently selected page?
+- Discussion on highlighting different sections on clips page
+- **Post site to Github
 
 ## References
 - Jekyll docs: https://jekyllrb.com/
