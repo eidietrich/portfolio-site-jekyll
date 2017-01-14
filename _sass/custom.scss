@@ -6,23 +6,24 @@ body {
 
 /* Intro / hero image */
 .intro {
-  display: table;
+  display: block;
   width: 100%;
-  height: auto;
-  padding: 100px 0;
-  text-align: center;
-  color: white;
-  background: url(../assets/intro-mt-bg.jpg) no-repeat center center fixed;
+  height: 200px;
+  padding: 25px 0;
+
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background-image: url(../assets/mt-2000px.jpg);
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-size: 150% auto;
+  background-attachment: scroll;
+
 }
 .intro .intro-body {
-  display: table-cell;
   background-color: rgba(6, 6, 6, 0.5);
-  vertical-align: middle;
+  color: white;
+  text-align: center;
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
@@ -33,8 +34,11 @@ body {
 }
 
 @media (min-width: 768px) {
+  /* Desktop display! */
   .intro {
     height: 400px;
+    padding: 100px 0;
+    background-size: 100% auto;
   }
   .intro .intro-body .brand-heading {
     font-size: 90px;
@@ -97,10 +101,6 @@ h1, h3 {
   color: #888;
   margin-bottom: 1em;
   margin-top: 1em;
-}
-
-.post-content h3 {
-
 }
 
 /* Custom layout stuff */

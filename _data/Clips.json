@@ -4,7 +4,7 @@
         "headline": "How will we grow?",
         "publication": "Bozeman Daily Chronicle",
         "date": "",
-        "blurb": "<p>A recurring feature series, with installments exploring particular dynamics around population growth in the Bozeman area, one of the fastest-growing micropolitan regions in the nation.</p><p>The best work in this series has been able to blend data-based reporting and narrative storytelling with a solutions-focused mindset, driving informed conversations on what's probably the highest-profile issue faced by the Chronicle's audience.</p>",
+        "blurb": "<p>A recurring feature series, with installments exploring particular dynamics around population growth in the Bozeman area, one of the fastest-growing micropolitan regions in the nation.</p><p>I've consistently been able to blend data-based reporting, narrative storytelling and a solutions focus, driving informed conversations on what's probably the highest-profile issue faced by the Chronicle's audience.</p>",
         "category": "In-depth series"
     },
     {
@@ -56,12 +56,12 @@
         "category": "Data journalism"
     },
     {
-        "link": "",
-        "headline": "Bozeman City Commission debating budget, tax increases Monday night",
+        "link": "http://www.bozemandailychronicle.com/news/beer-index-pints-come-to-more-bozeman-bars/article_ff583c29-174b-5b87-9516-3f87b1f719fb.html",
+        "headline": "Beer index: $5 pints come to more Bozeman bars",
         "publication": "Bozeman Daily Chronicle",
-        "date": "June 19, 2016",
-        "blurb": "<p>A preview story in advance of the city's annual budgeting session. Thinking nobody would get past the snoozer topic (and headline to match), I decided I might as well get frisky with the tone —- and actually ended up spurring <a href='http://www.bozemandailychronicle.com/opinions/letters_to_editor/dietrich-doing-fine-job-covering-city-government/article_40912bd3-b30d-5b22-8ba2-a9f82df78ee6.html'>fan mail</a>.</p>",
-        "category": "Beat reporting"
+        "date": "Dec. 31, 2016",
+        "blurb": "<p>Faced with a bit of a slow news week at one point, I called (nearly) every bar in town to ask how much they were charging for a pint of my favorite microbrew, using the data to compile a beer price index. This piece is actually a repeat of the effort a year later -- allowing longitudinal comparisons and an rough beer inflation estimate.</p>",
+        "category": "Data journalism"
     },
     {
         "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",

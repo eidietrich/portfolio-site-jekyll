@@ -7,13 +7,16 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 - Copy contents of `_site` folder to eidietrich.github.io repository
 - `git push` from local eidietrich.github.io to remote repo to update site
 
+## IMMEDIATE TODO
+- Add Omprakash, etc.
+- Add Jekyll/webdev/photography
+- Final proofread
+- Add data piece on bars
 
 ## TODO:
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
-- Fine-tune site description formatting
 - Figure out how to automate a deploy command (build a bash script)
-- Optimize hero image (mobile v desktop versions?)
-- Try to clean up CSS (can I remove Bootstrap?)
+- Try to clean up CSS
 - Add photography/videography to skils section
 - Add Jekyll to skills section (or web development)
 - Refine clips: Remove city budget story? Add Data piece on bars.

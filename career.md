@@ -9,15 +9,16 @@ order: 1
 ### Bozeman Daily Chronicle
 **City Hall Reporter** | *Nov. 2014 - Present*
 
-Covering local government and land use planning in one of America's fastest-growing micropolitan cities ([recent stories](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"}).
-* Producing a solutions-minded [major feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy.
-* Keeping an occasionally updated [City Beat blog](http://www.bozemandailychronicle.com/blogs/city/){:target="_blank"}, featuring web-only graphics, supplemental reporting and aggregation
+[Covering](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"} local government and land use planning in one of America's fastest-growing micropolitan cities.
+* Producing a solutions-minded [feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy
+* Keeping a [City Beat blog](http://www.bozemandailychronicle.com/blogs/city/){:target="_blank"}, featuring web-only graphics, supplemental reporting and aggregation
+* Moderated a panel discussion on growth issues for a revenue-generating Chronicle event
 * Work routinely incorporates data elements for reporting and storytelling
 
 ### Great Falls Tribune
 **Police & Courts Reporter** | *Nov. 2013 - Oct. 2014*
 
-Cut my teeth as a cub reporter rewriting police affidavits for a daily paper in Montana's third-largest city.
+Cut my teeth as a cub reporter rewriting police affidavits in Montana's third-largest city.
 * Covered state and federal court dockets, as well as breaking news
 * Published enterprise work on sex crime prosecutions and child protection reforms
 
@@ -42,7 +43,8 @@ Led a 50-student staff in producing a weekly paper on a campus without a journal
 **Student Project Manager, Board Member, Mentor** | *2008 - 2013*
 
 Served as a key leader in a student-managed international development program working to provide water and sanitation infrastructure at Kenyan primary schools, contributing to the program's recognition by the Association of Public Land-grant Universities in 2011 as one of the top campus-based service efforts in the nation.
-* Traveled to rural Kenya for four extended trips over a two-and-a-half-year span
+* Traveled to rural Kenya for four extended trips over a two-and-a-half-year span. Recruited, trained and managed project teams on three trips
+* Led efforts to implement a locally managed water distribution system serving more than 1,000 people 
 * Helped raise $100,000 annually through donations and grants
 * Mentored three generations of student members to help them take on responsibility for managing international construction projects
 
@@ -53,6 +55,7 @@ Served as a key leader in a student-managed international development program wo
 Contributed to an NIH and USEPA-funded community-based research project, looking at health concerns around water quality on the Crow Indian Reservation in Southeast Montana. Duties included fieldwork, lab work, outreach, data management, literature review and grant application development.
 * Digitized 50 years of historical well test data to develop a Geographic Information System allowing identification of potential domestic water supply hazards
 * Traveled door-to-door in an effort to counsel residents on health implications of well test results
+* Attended the 2013 Community-Based Participatory Research Institute at San Francisco State University
 
 ---
 ## Education
@@ -73,12 +76,17 @@ Completed a demanding analytical curriculum as the top graduate in my program.
 
 Serving on a collegiate publication advisory board, providing strategic level support and oversight for a student-managed business.
 
+### Omprakash Education through Global Engagement
+*2014 - 2016*
+
+Mentored Florida State University students through a distance learning platform, helping them prepare for international service learning trips.
+
 ### Rhodes Scholarship Finalist
 *2012*
 
-Interviewed for a full-ride scholarship to study at Oxford University. 
+Invited to interview for a scholarship to pursue graduate studies at Oxford University. 
 
 ### Eagle Scout Rank, Boy Scouts of America
 *2007*
 
-Spent the better parts of my youth tromping around in Pacific Northwest forests, hiking, camping and working as a summer camp staffer. Also taught dozens of preteen boys to tie knots.
+Spent the better parts of my youth tromping around in Pacific Northwest forests, hiking, camping and staffing resident summer camps. Also taught several dozen preteen boys to tie knots.
