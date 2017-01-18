@@ -31,7 +31,14 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 Q's for Audrey
 - What do you mean by "current page differentiation"? Highlighting the currently selected page?
 - Discussion on highlighting different sections on clips page
-- **Post site to Github
+
+AUDREY SAYS:
+- She liked the old menu better (having it match page width)
+- Page differentiation = highlight current page
+- Nav buttons - on every page
+- Clips - buttons to particular sections
+- Skills - add subheaders. Look at tables instead of bullet points? WTF is going on with link colors?
+- Recongition: Emphasize award name over constest name?
 
 ## References
 - Jekyll docs: https://jekyllrb.com/
