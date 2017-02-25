@@ -19,24 +19,18 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 - Try to clean up CSS
 - Add photography/videography to skils section
 - Add Jekyll to skills section (or web development)
-- Refine clips: Remove city budget story? Add Data piece on bars.
+- Refine clips: Remove city budget story?
 - Try replacing 2x2 button grid with a list
 - Improve favicon
 - Add Email icon to footer
-- Clips page: Look at highlighting different sections
-- Skills page: Lengthy headers --> Short headers and subheaders
+- Skills page: Lengthy headers --> Short headers and subheaders (OR: Organize by utility rather than tool, then provide category treatment like clips page)
+- Spice up 'How will we grow' description
 
 - Pass by Brent
-
-Q's for Audrey
-- What do you mean by "current page differentiation"? Highlighting the currently selected page?
-- Discussion on highlighting different sections on clips page
 
 AUDREY SAYS:
 - She liked the old menu better (having it match page width)
 - Page differentiation = highlight current page
-- Nav buttons - on every page
-- Clips - buttons to particular sections
 - Skills - add subheaders. Look at tables instead of bullet points? WTF is going on with link colors?
 - Recongition: Emphasize award name over constest name?
 

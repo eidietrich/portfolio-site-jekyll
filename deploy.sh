@@ -10,3 +10,5 @@ cp -R $BUILDDIR $DESTDIR
 git add *
 git commit -m "Scripted update"
 git push
+
+# INCOMPLETE (I think)

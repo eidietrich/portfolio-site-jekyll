@@ -3,9 +3,9 @@
         "link": "http://www.bozemandailychronicle.com/special_reports/growth/",
         "headline": "How will we grow?",
         "publication": "Bozeman Daily Chronicle",
-        "date": "",
+        "date": "Jan. 2016 to present",
         "blurb": "<p>A recurring feature series, with installments exploring particular dynamics around population growth in the Bozeman area, one of the fastest-growing micropolitan regions in the nation.</p><p>I've consistently been able to blend data-based reporting, narrative storytelling and a solutions focus, driving informed conversations on what's probably the highest-profile issue faced by the Chronicle's audience.</p>",
-        "category": "In-depth series"
+        "category": "Investigations"
     },
     {
         "link": "http://www.bozemandailychronicle.com/news/city/big-sky-crowded-growth-density-and-the-future-of-the/article_62038e76-8783-5b64-a900-466cfb0a29fd.html",
@@ -32,12 +32,20 @@
         "category": "Features"
     },
     {
+        "link": "http://www.bozemandailychronicle.com/news/city/what-a-living-wage-is-in-bozeman-and-who-makes/article_08c66d8f-f0f4-5541-87a7-d09ff287c13f.html",
+        "headline": "What a living wage is in Bozeman — and who makes it",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "June 18, 2017",
+        "blurb": "<p>A interactive calculator and accompanying story, using cost-of-living data from MIT to generate living wage estimates for a region with increasingly fraught concerns over housing affordability in particular. Allows readers to toggle between estimates for different housing sizes, enter personalized costs and compare living wage estimates to local salary data.</p>",
+        "category": "Web interactives"
+    },
+    {
         "link": "http://www.bozemandailychronicle.com/bozeman-walkability-interactive/html_fa0d8038-a3a9-570b-9aa5-996535a16a4a.html",
         "headline": "How walkable is your Bozeman neighborhood?",
         "publication": "Bozeman Daily Chronicle",
         "date": "Sept. 8, 2016",
         "blurb": "<p>An interactive map allowing readers to explore neighborhood walkability by indicating a location in town and returning information on the distance to establishments like restaurants and grocery stores.</p>",
-        "category": "Data journalism"
+        "category": "Web interactives"
     },
     {
         "link": "http://www.bozemandailychronicle.com/blogs/city/getting-a-handle-on-bozeman-s-budget/article_8ebe8f60-6dde-56e8-929d-8756366b8241.html",
@@ -45,7 +53,7 @@
         "publication": "Bozeman Daily Chronicle",
         "date": "June 20, 2016",
         "blurb": "<p>An interactive using a sankey diagram to visualize money flowing through a proposed city budget from tax collections to spending areas like police, parks and infrastructure. Designed to highlight comparisons like the fraction of city revenue coming from property taxes, and the cost of infrastructure investments compared to other city services.</p>",
-        "category": "Data journalism"
+        "category": "Web interactives"
     },
     {
         "link": "http://www.bozemandailychronicle.com/news/city/growth-and-taxes-costs-for-governments-and-property-owners-add/article_8ff42c1c-dd3e-5d04-881e-72a6a2d27dc4.html",
@@ -62,6 +70,14 @@
         "date": "Dec. 31, 2016",
         "blurb": "<p>Faced with a bit of a slow news week at one point, I called (nearly) every bar in town to ask how much they were charging for a pint of my favorite microbrew, using the data to compile a beer price index. This piece is actually a repeat of the effort a year later - allowing longitudinal comparisons and a rough beer inflation estimate.</p>",
         "category": "Data journalism"
+    },
+    {
+        "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",
+        "headline": "This Bozeman home lot is selling for $345,000. Here’s why",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "Feb. 23, 2017",
+        "blurb": "<p>A particularly pricey home lot gave me an opportunity to take readers on a spin through the implications of a high-demand, limited-supply housing market in one of the city's most desirable neighborhoods, distilling several years' worth of beat expertise into a single 1,000-word article.</p>",
+        "category": "Beat reporting"
     },
     {
         "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",

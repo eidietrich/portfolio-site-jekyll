@@ -48,6 +48,29 @@ body {
   }
 }
 
+/* Clips links (top of clips page) */
+.clips-section-link-container {
+  margin: auto;
+  padding-bottom: 5px;
+}
+
+.clips-section-link {
+
+  text-align: center;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  width: 100%;
+
+  padding: 5px 5px;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+}
+.clips-section-link:hover{
+  background-color: #eee;
+  text-decoration: none;
+}
+
 /* Page button (bottom of home page)*/
 
 .page-button-container {
@@ -105,8 +128,9 @@ h1, h3 {
 
 /* Custom layout stuff */
 
-.wrapper {
+.wrapper, {
   max-width: 800px;
+  margin: auto;
 }
 
 /* Clips page formatting */

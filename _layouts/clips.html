@@ -8,16 +8,24 @@ layout: default
 
   {% include page-title.html title=page.title %}
 
-  <div class="post-content">
-    {{ content }}
+  <div class="container-fluid">
+    <div class="row">
+    {% for category in clips %}
+      <div class="clips-section-link-container col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <a class="clips-section-link" href="#{{category.name | downcase | replace: ' ','_'}}">{{category.name}}</a>
+      </div>
+    {% endfor %}
+    </div>
   </div>
 
-   <div class="clips-content">
+  <div class="clips-content">
     {% for category in clips %}
+      <a name="{{category.name | downcase | replace: ' ','_'}}"></a>
       <h2> {{ category.name }} </h2>
       {% for clip in category.items %}
         {% include clip.html clip=clip %}
       {% endfor %}
+      <p class="small text-center text-uppercase"><a href="{{page.url}}">- Top of page - </a></p>
       <hr/>
     {% endfor %}
   </div>
