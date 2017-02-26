@@ -47,9 +47,9 @@ Letter [writer](http://www.bozemandailychronicle.com/opinions/letters_to_editor/
 >
 >... As one sentence brought a question to mind, the next sentence provided an answer. This logical progression is one characteristic that I value about Eric’s writing. That, and his exceptional talent with the written word.
  
-Via email:
+Reader email:
 > Your Walkability article was excellent. Thoughtful, comprehensive, well expressed, and darn good punctuation!
 
-Via email, in response to a [tax policy feature](http://www.bozemandailychronicle.com/news/city/growth-and-taxes-costs-for-governments-and-property-owners-add/article_8ff42c1c-dd3e-5d04-881e-72a6a2d27dc4.html):
+Reader email, in response to a [tax policy feature](http://www.bozemandailychronicle.com/news/city/growth-and-taxes-costs-for-governments-and-property-owners-add/article_8ff42c1c-dd3e-5d04-881e-72a6a2d27dc4.html):
 > Thank you for the great article you did on taxes and growth in Bozeman. I will reference it for a long time in the future to make taxing decisions and win lots of arguments with my friends.
 
