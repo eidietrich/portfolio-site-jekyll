@@ -4,11 +4,13 @@
 
 BUILDDIR=./_site
 DESTDIR=./../eidietrich.github.io
+RETURNPATH=./../portfolio-site-jekyll
 
 jekyll build
 cp -R $BUILDDIR $DESTDIR
+cd $DESTDIR
 git add *
 git commit -m "Scripted update"
 git push
-
-# INCOMPLETE (I think)
+cd $RETURNPATH
+echo "deploy complete"

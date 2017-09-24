@@ -3,9 +3,17 @@
         "link": "http://www.bozemandailychronicle.com/special_reports/growth/",
         "headline": "How will we grow?",
         "publication": "Bozeman Daily Chronicle",
-        "date": "Jan. 2016 to present",
+        "date": "2016 to 2017",
         "blurb": "<p>A recurring feature series, with installments exploring particular dynamics around population growth in the Bozeman area, one of the fastest-growing micropolitan regions in the nation.</p><p>I've consistently been able to blend data-based reporting, narrative storytelling and a solutions focus, driving informed conversations on what's probably the highest-profile issue faced by the Chronicle's audience.</p>",
         "category": "Investigations"
+    },
+    {
+        "link": "https://www.bozemandailychronicle.com/news/city/making-sense-of-modern-bozeman-montana-s-fancy-place/article_0f67566a-d6bb-534d-8215-924340eceed1.html",
+        "headline": "Essay: Making sense of modern Bozeman – Montana’s ‘fancy place’",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "June 11, 2017",
+        "blurb": "<p>A reported feature with framed by personal narrative, exploring economic and cultural change in Montana's fastest-growing city.</p>",
+        "category": "Features"
     },
     {
         "link": "http://www.bozemandailychronicle.com/news/city/big-sky-crowded-growth-density-and-the-future-of-the/article_62038e76-8783-5b64-a900-466cfb0a29fd.html",
@@ -72,7 +80,7 @@
         "category": "Data journalism"
     },
     {
-        "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",
+        "link": "https://www.bozemandailychronicle.com/news/city/this-bozeman-home-lot-is-selling-for-here-s-why/article_9bcd4b69-c7ef-5046-a48e-5ea7d338c88d.html",
         "headline": "This Bozeman home lot is selling for $345,000. Here’s why",
         "publication": "Bozeman Daily Chronicle",
         "date": "Feb. 23, 2017",
@@ -80,11 +88,11 @@
         "category": "Beat reporting"
     },
     {
-        "link": "http://www.bozemandailychronicle.com/news/economy/oracle-moving-bozeman-jobs-to-texas-sources-say-more-than/article_7e7222cc-5402-5059-94e1-b094c3c7bd48.html",
-        "headline": "Oracle moving Bozeman jobs to Texas; sources say more than 100 affected",
+        "link": "https://www.bozemandailychronicle.com/news/city/off-the-rails-how-bozeman-s-push-to-think-big/article_eeb371d9-7515-5f57-a7fb-5dc09968f36a.html",
+        "headline": "‘Off the rails’: How Bozeman’s push to think big picture amid growth went astray",
         "publication": "Bozeman Daily Chronicle",
-        "date": "Sept. 7, 2016",
-        "blurb": "<p>A shared byline story that broke a major local business story with political implications for Montana's gubernatorial race.</p>",
+        "date": "May 14, 2017",
+        "blurb": "<p>An in-depth look at how a signature Bozeman planning effort fell short, creating a situation that may well have cost the city's top administrator his longtime job.</p>",
         "category": "Beat reporting"
     },
     {

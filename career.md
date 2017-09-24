@@ -6,8 +6,16 @@ order: 1
 ---
 ## Journalism
 
+### Independent Journalist
+*Aug. 2017 to present*
+
+Montana-based freelance reporter.
+
+* Producing [Montana Ramble](http://tinyletter.com/eidietrich){:target="_blank"}, a weekly email newsletter with dispatches from geographies across the state.
+* Work published by the [Missoula Independent](https://missoulanews.bigskypress.com/missoula/outgrowing-house-and-home/Content?oid=4990563){:target="_blank"}, [Bozeman Chronicle](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidzsC62b7WAhUS8mMKHeE6CT0QFggoMAA&url=https%3A%2F%2Fwww.bozemandailychronicle.com%2Fopinions%2Fguest_columnists%2Fwhat-s-lost-if-we-give-up-on-affordability-people%2Farticle_721268ba-8def-5a32-b5c1-27ea7274d243.html&usg=AFQjCNHnClxQ_a8Dh_1Qz53DAw1Bx1I1Ow){:target="_blank"} and [MSU News Service](http://www.montana.edu/news/17105/msu-alumni-help-build-up-a-small-town-dinosaur-museum-in-eastern-montana){:target="_blank"}.
+
 ### Bozeman Daily Chronicle
-**City Hall Reporter** | *Nov. 2014 - Present*
+**City Hall Reporter** | *Nov. 2014 - July 2017*
 
 [Covering](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"} local government and land use planning in one of America's fastest-growing micropolitan cities.
 * Producing a solutions-minded [feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy

@@ -7,11 +7,7 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 - Copy contents of `_site` folder to eidietrich.github.io repository
 - `git push` from local eidietrich.github.io to remote repo to update site
 
-## IMMEDIATE TODO
-- Add Omprakash, etc.
-- Add Jekyll/webdev/photography
-- Final proofread
-- Add data piece on bars
+Now streamlined in `deploy.sh` script. Simply run to deploy!
 
 ## TODO:
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
@@ -19,7 +15,7 @@ Having trouble with the automagic Github Pages deployment for some reason, so I'
 - Try to clean up CSS
 - Add photography/videography to skils section
 - Add Jekyll to skills section (or web development)
-- Refine clips: Remove city budget story?
+- Refine clips: Remove city budget story? Add mtleg vote mapping generator?
 - Try replacing 2x2 button grid with a list
 - Improve favicon
 - Add Email icon to footer
