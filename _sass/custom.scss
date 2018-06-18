@@ -1,52 +1,119 @@
 /* Site-specific css */
 
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', 'Garamond', serif;
 }
 
 /* Intro / hero image */
 .intro {
-  display: block;
+
   width: 100%;
-  height: 200px;
-  padding: 25px 0;
+  // height: 200px;
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+  height: 60vw;
+
 
   background-color: black;
-  background-image: url(../assets/mt-2000px.jpg);
+  // background-image: url(../assets/mt-2000px.jpg);
+  background-image: url(../assets/filled-walmart-time-hillshade.png);
+
   background-repeat: no-repeat;
 
   background-position: center;
-  background-size: 150% auto;
+  background-size: cover;
   background-attachment: scroll;
 
 }
-.intro .intro-body {
+
+.intro-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
+  // width: 100%;
   background-color: rgba(6, 6, 6, 0.5);
+
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+
+  // margin-left: 5vw;
+  // margin-right: 5vw;
+
+}
+
+.headshot {
+  // flex: 1 0 auto;
+
+  width: 30vw;
+  height: 30vw;
+  min-width: 200px;
+  min-height: 150px;
+  max-width: 360px;
+  flex: 1 0 auto;
+  background-image: url(../assets/eric-mug.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-size: 100% auto;
+
+
+}
+
+.intro-text {
+  flex: 1 0 auto;
+  width: 40vw;
   color: white;
-  text-align: center;
-}
-.intro .intro-body .brand-heading {
-  font-size: 40px;
-
-}
-.intro .intro-body .intro-text {
-  font-size: 18px;
+  margin-left: 5vw;
 }
 
-@media (min-width: 768px) {
-  /* Desktop display! */
-  .intro {
-    height: 400px;
-    padding: 100px 0;
-    background-size: 100% auto;
+
+.intro-header {
+  font-size: 7vw;
+
+}
+.intro-subhead {
+  font-size: 3.5vw;
+}
+
+// small screens
+@media (max-width: 450px) {
+  .intro-header {
+    font-size: 36px;
   }
-  .intro .intro-body .brand-heading {
+  .intro-subhead {
+    font-size: 18px;
+  }
+  .intro {
+    height: fit-content;
+  }
+}
+
+// big screens
+@media (min-width: 1200px){
+  .intro {
+    max-width: 1200px;
+    margin: auto;
+  }
+  .intro-content {
+    margin-right: 2vw;
+    margin-left: 2vw;
+  }
+  .intro-text {
+    margin-left: 2vw;
+  }
+  .intro-header {
     font-size: 90px;
   }
-  .intro .intro-body .intro-text {
-    font-size: 26px;
+  .intro-subhead {
+    font-size: 40px;
   }
+
 }
+
 
 /* Clips links (top of clips page) */
 .clips-section-link-container {
@@ -147,6 +214,26 @@ h1, h3 {
 }
 .clip-link {
   text-align: center;
+}
+
+/* Header */
+
+.navbar {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.site-header {
+  border-bottom: none;
 }
 
 /* Footer */

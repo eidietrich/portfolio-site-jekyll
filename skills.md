@@ -2,17 +2,17 @@
 layout: page
 title: Skills
 permalink: /skills/
-order: 3
+order: 4
 ---
 
-### Javascript for data visualization + web development 
+### Javascript for data visualization + web development
 
 I initially picked up Javascript to make D3-based data visualizations, but am increasingly comfortable using it for server-side scripting with Node.js, as well as general-purpose web development alongside HTML and CSS.
 
 Familiar tools:
 - **[D3.js](https://d3js.org/){:target="_blank"}** - Used to produce charts and maps for print and web. Examples:
     -  [A decade of growth in the Gallatin Valley](http://www.bozemandailychronicle.com/a-decade-of-growth-in-the-gallatin-valley/html_b3d169bc-bb7a-596c-ae05-a8fea2de0aee.html){:target="_blank"} - Map and diagram projecting scope of potential land development.
-    -  [Gallatin Valley migration by age](http://www.bozemandailychronicle.com/gallatin-county-migration-by-age/image_abc65da9-3f7d-50c4-be26-80c25dd7c7d3.html){:target="_blank"} - Age pyramid-style diagram for visualizing U.S. Census county-level migration data. Rendered as static visual for print and web. 
+    -  [Gallatin Valley migration by age](http://www.bozemandailychronicle.com/gallatin-county-migration-by-age/image_abc65da9-3f7d-50c4-be26-80c25dd7c7d3.html){:target="_blank"} - Age pyramid-style diagram for visualizing U.S. Census county-level migration data. Rendered as static visual for print and web.
     -  [2017 Bozeman budget flow diagram](http://www.bozemandailychronicle.com/bozeman-budget-flow-diagram/html_8049a0a4-efdc-5cc1-9aae-8566819ab646.html){:target="_blank"} - Interactive sankey diagram visualizing a proposed municipal budget.
 - **[Leaflet.js](http://leafletjs.com/){:target="_blank"}** - Used for developing customized web maps, e.g. [this interactive](http://bozemandailychronicle.com/app/newsroom/walkability/index.html) exploration of neighborhood walkability. Also used for simpler projects, like [this map](http://www.bozemandailychronicle.com/bozeman-sidewalk-gaps/html_4f446e5e-6ea1-58dd-9d9c-673d4a11d59b.html){:target="_blank"} of gaps in the city sidewalk grid.
 - **[Node.js](https://nodejs.org/en/){:target="_blank"}** - I'm comfortable working in a Node.js-based development environment, and have a working understanding of build tools like Babel, Webpack and Gulp.
@@ -38,7 +38,7 @@ Examples of QGIS cartography work are [maps ](http://www.bozemandailychronicle.c
 
 ### CartoDB for map-making on deadline
 
-I've used [CartoDB](https://carto.com/){:target="_blank"} for web map displays with several projects, particularly when producing mapping products to supplement quick-hit stories. Examples include [city street tree locations](https://eidietrich.carto.com/viz/983c9326-88cf-11e5-b01c-0ea31932ec1d/public_map){:target="_blank"}, precinct-level [bond vote results](https://eidietrich.carto.com/viz/dda70098-a6d0-11e6-a1e9-0e05a8b3e3d7/public_map){:target="_blank"} and [mayoral campaign contributions](https://eidietrich.carto.com/viz/b36bd188-78f9-11e5-83f0-0ecfd53eb7d3/public_map){:target="_blank"}. 
+I've used [CartoDB](https://carto.com/){:target="_blank"} for web map displays with several projects, particularly when producing mapping products to supplement quick-hit stories. Examples include [city street tree locations](https://eidietrich.carto.com/viz/983c9326-88cf-11e5-b01c-0ea31932ec1d/public_map){:target="_blank"}, precinct-level [bond vote results](https://eidietrich.carto.com/viz/dda70098-a6d0-11e6-a1e9-0e05a8b3e3d7/public_map){:target="_blank"} and [mayoral campaign contributions](https://eidietrich.carto.com/viz/b36bd188-78f9-11e5-83f0-0ecfd53eb7d3/public_map){:target="_blank"}.
 
 ### Git for version control
 
@@ -48,7 +48,7 @@ I've used Git/GitHub for version control with personal projects and some collabo
 
 I'm comfortable working with Illustrator and Photoshop, as well as Adobe InDesign. I've also experimented with the [ai2html plugin](http://ai2html.org/) for Illustrator.
 
-### Miscellanea 
+### Miscellanea
 - I've worked with [Tableau](http://www.tableau.com/){:target="_blank"}, but have largely abandoned it over difficulty producing responsive visualizations.
 - I've dabbled with R, but have focused on developing Python skills for data analysis.
 - I routinely use command line (Bash) tools like [csvkit](https://csvkit.readthedocs.io/){:target="_blank"}.

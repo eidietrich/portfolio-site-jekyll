@@ -2,7 +2,7 @@
 layout: page
 title: Recognition
 permalink: /recognition/
-order: 4
+order: 5
 ---
 
 ## 2016 SPJ Northwest Excellence in Journalism Contest
@@ -25,7 +25,7 @@ order: 4
 
 ## 2015 Montana Newspaper Association Better Newspaper Contest
 
-### Best News Story 
+### Best News Story
 - [The October Effect: Looking at Great Falls' fight against child abuse
 ](http://www.greatfallstribune.com/story/news/crime/2014/06/29/looking-great-falls-fight-child-abuse/11699495/)
 
@@ -46,7 +46,7 @@ Letter [writer](http://www.bozemandailychronicle.com/opinions/letters_to_editor/
 >“Think of the budget adoption meeting, held annually in advance of the July 1 start to the city’s fiscal year, as the equivalent of the NBA finals for City Hall watchers – except, well, perhaps a wee bit wonkier.”
 >
 >... As one sentence brought a question to mind, the next sentence provided an answer. This logical progression is one characteristic that I value about Eric’s writing. That, and his exceptional talent with the written word.
- 
+
 Reader email:
 > Your Walkability article was excellent. Thoughtful, comprehensive, well expressed, and darn good punctuation!
 

@@ -2,11 +2,12 @@
 # Script for automating deployment from development repository
 # To eidietrich.github.io
 
-BUILDDIR=./_site
+BUILDDIR=./_site/.
 DESTDIR=./../eidietrich.github.io
 RETURNPATH=./../portfolio-site-jekyll
 
 jekyll build
+echo "ericidietrich.com" >> ./_site/CNAME
 cp -R $BUILDDIR $DESTDIR
 cd $DESTDIR
 git add *

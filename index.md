@@ -7,16 +7,19 @@ title: Intro
 order: -1
 ---
 
-### Full-time journalist
+
+
+
+### Seasoned journalist
 I've spent years in professional newsrooms, learning the craft of public service journalism a story at a time. I've covered public meetings, political campaigns and court proceedings -- routine governance, community triumphs and the occasional tragedy.
 
-When news breaks, I pick up the phone and make calls. When a story hits a nerve with readers, I take them. By listening on both counts, I've begun to understand the world and its people. 
+When news breaks, I pick up the phone and make calls. When a story hits a nerve with readers, I take them. By listening on both counts, I've begun to understand the world and its people.
 
 ### Part-time programmer
 
 A self-taught developer and designer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling -- sometimes, even, on deadline.
 
-I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactive graphics. 
+I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactive graphics.
 
 ### Onetime engineer
 

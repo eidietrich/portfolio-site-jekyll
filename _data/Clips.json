@@ -40,15 +40,15 @@
         "category": "Features"
     },
     {
-        "link": "http://www.bozemandailychronicle.com/news/city/what-a-living-wage-is-in-bozeman-and-who-makes/article_08c66d8f-f0f4-5541-87a7-d09ff287c13f.html",
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/living-wage/gc-living-wage/",
         "headline": "What a living wage is in Bozeman — and who makes it",
         "publication": "Bozeman Daily Chronicle",
         "date": "June 18, 2017",
-        "blurb": "<p>A interactive calculator and accompanying story, using cost-of-living data from MIT to generate living wage estimates for a region with increasingly fraught concerns over housing affordability in particular. Allows readers to toggle between estimates for different housing sizes, enter personalized costs and compare living wage estimates to local salary data.</p>",
+        "blurb": "<p>A interactive calculator using cost-of-living data from MIT to generate living wage estimates for a region with increasingly fraught concerns over housing affordability. Allows readers to toggle between estimates for different housing sizes, enter personalized costs and compare living wage estimates to local salary data.</p>",
         "category": "Web interactives"
     },
     {
-        "link": "http://www.bozemandailychronicle.com/bozeman-walkability-interactive/html_fa0d8038-a3a9-570b-9aa5-996535a16a4a.html",
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/walkability/",
         "headline": "How walkable is your Bozeman neighborhood?",
         "publication": "Bozeman Daily Chronicle",
         "date": "Sept. 8, 2016",
@@ -56,7 +56,7 @@
         "category": "Web interactives"
     },
     {
-        "link": "http://www.bozemandailychronicle.com/blogs/city/getting-a-handle-on-bozeman-s-budget/article_8ebe8f60-6dde-56e8-929d-8756366b8241.html",
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/bzn-2017-budget-sankey/",
         "headline": "Getting a handle on Bozeman’s budget",
         "publication": "Bozeman Daily Chronicle",
         "date": "June 20, 2016",
