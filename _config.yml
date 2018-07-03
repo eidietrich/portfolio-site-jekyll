@@ -19,15 +19,24 @@ email: eric.dietrich@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Journalist. Problem solver. Data designer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ericidietrich.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eidietrich
 github_username:  eidietrich
+linkedin_username: eidietrich
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 gems:
-  - jekyll-feed
+  # - jekyll-feed
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1200
+
 exclude:
   - Gemfile
   - Gemfile.lock

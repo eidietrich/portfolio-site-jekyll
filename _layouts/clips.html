@@ -2,20 +2,17 @@
 layout: default
 ---
 
-{% assign clips=site.data.clips | group_by: "category" %}
+{% assign clips=site.data[page.data-source] | group_by: "category" %}
 
 <article class="post">
 
   {% include page-title.html title=page.title %}
 
-  <div class="container-fluid">
-    <div class="row">
+
+  <div class="clips-link-container">
     {% for category in clips %}
-      <div class="clips-section-link-container col-xs-12 col-sm-6 col-md-4 col-lg-4">
-        <a class="clips-section-link" href="#{{category.name | downcase | replace: ' ','_'}}">{{category.name}}</a>
-      </div>
+      <a class="clips-link" href="#{{category.name | downcase | replace: ' ','_'}}">{{category.name}}</a>
     {% endfor %}
-    </div>
   </div>
 
   <div class="clips-content">
@@ -25,8 +22,8 @@ layout: default
       {% for clip in category.items %}
         {% include clip.html clip=clip %}
       {% endfor %}
-      <p class="small text-center text-uppercase"><a href="{{page.url}}">- Top of page - </a></p>
-      <hr/>
+      <!-- <p class="small text-center text-uppercase"><a href="{{page.url}}">- Top of page - </a></p> -->
+
     {% endfor %}
   </div>
 

@@ -1,18 +1,52 @@
 {% assign clip = include.clip %}
 
 <div class="clip">
-  <div class="row">
-    <div class="col-xs-12 col-sm-12">
-      <h3><a href="{{clip.link}}" target="_blank">{{ clip.headline}}</a></h3>
+
+    <div class="clip-header">
+    <!--   <h3><a href="{{clip.link}}" target="_blank">{{ clip.headline}}</a></h3> -->
+      <h3>{{clip.headline}}</h3>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-xs-12 col-sm-3">
-      <p class="publication">{{ clip.publication }}</p>
-      <p class="publication-date">{{ clip.date }}</p>
+
+    <div class="clip-content">
+
+      <div class="clip-col info">
+        <div class="clip-pub-info">
+          <div class="publication">{{ clip.publication }}</div>
+          <div class="publication-date">{{ clip.date }}</div>
+        </div>
+        <div class="clip-blurb">
+          {{ clip.blurb }}
+        </div>
+        <hr />
+        <div class="clip-link-buttons">
+          <div class="clip-link-button live">
+            <a href="{{clip.link}}" target="_blank">See More</a>
+          </div>
+          {% if clip.codeLink %}
+            <div class="clip-link-button code">
+              <a href="{{clip.codeLink}}" target="_blank">See Code</a>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+
+
+      {% if clip.assetName %}
+        <div class="clip-col visual">
+          <a href="{{clip.link}}">
+
+            {% assign path = 'assets/' | append: clip.assetName %}
+            {% assign alt = clip.headline %}
+
+            {% responsive_image_block %}
+              path: {{ path }}
+              class: 'clip-image'
+            {% endresponsive_image_block %}
+
+          </a>
+        </div>
+      {% endif %}
+
     </div>
-    <div class="col-xs-12 col-sm-9">
-      <div class="clip-blurb">{{ clip.blurb }}</div>
-    </div>
-  </div>
+
 </div>

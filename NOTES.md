@@ -1,5 +1,11 @@
 # NOTES
 
+## Development server
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Build/deployment process
 
 Having trouble with the automagic Github Pages deployment for some reason, so I'm using a manual workaround:
@@ -13,8 +19,6 @@ Now streamlined in `deploy.sh` script. Simply run to deploy!
 - Add LinkedIn icon and link to footer - [LinkedIn](https://www.linkedin.com/in/eidietrich)
 - Figure out how to automate a deploy command (build a bash script)
 - Try to clean up CSS
-- Add photography/videography to skils section
-- Add Jekyll to skills section (or web development)
 - Refine clips: Remove city budget story? Add mtleg vote mapping generator?
 - Try replacing 2x2 button grid with a list
 - Improve favicon
@@ -22,13 +26,21 @@ Now streamlined in `deploy.sh` script. Simply run to deploy!
 - Skills page: Lengthy headers --> Short headers and subheaders (OR: Organize by utility rather than tool, then provide category treatment like clips page)
 - Spice up 'How will we grow' description
 
-- Pass by Brent
+## NOTES
+Using 800px width images for portfolio page (full column width on 1x devices) -- having trouble getting srcset implemented, need to play with narrower column widths
 
-AUDREY SAYS:
-- She liked the old menu better (having it match page width)
-- Page differentiation = highlight current page
-- Skills - add subheaders. Look at tables instead of bullet points? WTF is going on with link colors?
-- Recongition: Emphasize award name over constest name?
+## New TODO
+[x] match menu to page width
+[x] Highlight current page if possible
+[x] Fix link colors
+[x] Redo footer
+[x] Finish color theming site wide
+[x] Redo font pairing
+[x] Career - add SJN work, current freelance work
+[x] Improve favicon
+[ ]
+
+
 
 ## References
 - Jekyll docs: https://jekyllrb.com/

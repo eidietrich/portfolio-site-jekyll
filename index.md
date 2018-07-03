@@ -7,22 +7,14 @@ title: Intro
 order: -1
 ---
 
-
-
-
 ### Seasoned journalist
-I've spent years in professional newsrooms, learning the craft of public service journalism a story at a time. I've covered public meetings, political campaigns and court proceedings -- routine governance, community triumphs and the occasional tragedy.
+I've spent years as a newspaper reporter and freelance writer, covering public meetings, political campaigns and court proceedings -- routine governance, community triumps and the occaisional tragedy. I've learned how to listen and how to dig -- how to cajole information from reluctant bureacracies, make sense of tricky topics and write stories that hold leaders accountable for their decisions.
 
-When news breaks, I pick up the phone and make calls. When a story hits a nerve with readers, I take them. By listening on both counts, I've begun to understand the world and its people.
+### Problem solver
 
-### Part-time programmer
+I came to media with an engineering degree, training that taught me to approach the world with a solutions mindset. I do work that helps people understand and address their problems — cutting through murky situations to provide the clarity that supports productive conversations.
 
-A self-taught developer and designer, I'm increasingly able to apply data analysis and visualization to my journalism, using code as a tool to complement my reporting and storytelling -- sometimes, even, on deadline.
 
-I routinely comb through public databases, federal statistics and GIS datasets to explore issues and generate story ideas. When confronted with complex topics like land use and public finance, I often turn to visual elements like maps, charts and interactive graphics.
+### Data designer
 
-### Onetime engineer
-
-With a degree in civil engineering, I'm an infrastructure geek by inclination and solutions-minded by training. Working in international development and public health as a student taught me the import of basic services like drinking water. I've also learned by experience that physical infrastructure relies on human institutions -- the legal, financial and political systems that, when functioning well, provide a foundation for building prosperity.
-
-As a journalist, I'm most interested in that civic infrastructure — how it works, who it works for and what can be done to help it work better. While those topics rarely produce easy headlines, I'm learning the art of making important truths compelling -- using multimedia, narrative and analytic insight to to tell stories to help my readers grapple with hard things.
+I augment my research and storytelling with computational tools, using code for data analysis, web development and graphic design. I comb through public databases, federal statistics and GIS datasets to explore complex issues like land use and public finance. And I translate those findings into professional quality visualizations, maps and web interactives – even when working on deadline.

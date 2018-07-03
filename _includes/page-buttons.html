@@ -2,15 +2,11 @@
 
   {% assign sorted_pages = site.pages | sort: "order" %}
 
-  {% for my_page in sorted_pages %}
-    {% if my_page.title and my_page.order > 0 %}
-    <div class="col-sm-3 page-button-container">
-      <a class="page-link" href="{{ my_page.url | relative_url }}">
-        <div class="page-button">
-           {{ my_page.title | escape }}
-        </div>
+  {% for page in sorted_pages %}
+    {% if page.title and page.order > 0 %}
+      <a class="page-button" href="{{ page.url | relative_url }}">
+           {{ page.title | escape }}
       </a>
-    </div>
     {% endif %}
   {% endfor %}
 

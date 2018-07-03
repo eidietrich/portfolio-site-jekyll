@@ -6,22 +6,26 @@ order: 1
 ---
 ## Journalism
 
-### Independent Journalist
-*Aug. 2017 to present*
+### Independent work
+*Aug. 2017 – present*
 
-Montana-based freelance reporter.
+Montana-based freelance reporter, data designer and entrepreneur.
 
-* Producing [Montana Ramble](http://tinyletter.com/eidietrich){:target="_blank"}, a weekly email newsletter with dispatches from geographies across the state.
-* Work published by the [Missoula Independent](https://missoulanews.bigskypress.com/missoula/outgrowing-house-and-home/Content?oid=4990563){:target="_blank"}, [Bozeman Chronicle](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwidzsC62b7WAhUS8mMKHeE6CT0QFggoMAA&url=https%3A%2F%2Fwww.bozemandailychronicle.com%2Fopinions%2Fguest_columnists%2Fwhat-s-lost-if-we-give-up-on-affordability-people%2Farticle_721268ba-8def-5a32-b5c1-27ea7274d243.html&usg=AFQjCNHnClxQ_a8Dh_1Qz53DAw1Bx1I1Ow){:target="_blank"} and [MSU News Service](http://www.montana.edu/news/17105/msu-alumni-help-build-up-a-small-town-dinosaur-museum-in-eastern-montana){:target="_blank"}.
+* Produced [Montana Ramble](http://tinyletter.com/eidietrich){:target="_blank"}, a weekly travel newsletter with dispatches from communities across the state, Aug - Oct. 2017.
+* Developed and pitched a business plan for a Montana-scope nonprofit news outlet.
+* Work published by the [Missoula Independent](https://missoulanews.bigskypress.com/missoula/outgrowing-house-and-home/Content?oid=4990563){:target="_blank"}, [Montana Free Press](https://montanafreepress.org/2018/06/11/mt-senate-preview/){:target="_blank"}, [Mountain Outlaw](http://www.mtoutlaw.com/the-scenery-economy-crucible/){:target="_blank"} and [High Country News](https://www.hcn.org/issues/50.3/the-montana-gap-why-some-young-professionals-settle-in-small-town-montana){:target="_blank"}.
+
+### Solutions Journalism Network
+**Project Reporter** | *Oct. 2017 - July 2018*
+
+Served as a Montana-based team member for a national journalism nonprofit working with High Country News magazine and a dozen western Montana publications to produce collaborative feature packages of solutions-focused stories on rural economic development and mental health services. Work included reporting, coordination, social media promotion and helping weekly newspaper editors put on town hall-style engagement events.
 
 ### Bozeman Daily Chronicle
 **City Hall Reporter** | *Nov. 2014 - July 2017*
 
-[Covering](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"} local government and land use planning in one of America's fastest-growing micropolitan cities.
-* Producing a solutions-minded [feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy
-* Keeping a [City Beat blog](http://www.bozemandailychronicle.com/blogs/city/){:target="_blank"}, featuring web-only graphics, supplemental reporting and aggregation
-* Moderated a panel discussion on growth issues for a revenue-generating Chronicle event
-* Work routinely incorporates data elements for reporting and storytelling
+[Covered local government and land use planning](https://www.bozemandailychronicle.com/users/profile/edietrich/){:target="_blank"} in one of America's fastest-growing micropolitan cities.
+* Produced a solutions-minded [feature series](http://www.bozemandailychronicle.com/special_reports/growth/){:target="_blank"} exploring the implications of population growth and planning policy
+* Work routinely incorporated data techniques for reporting and storytelling
 
 ### Great Falls Tribune
 **Police & Courts Reporter** | *Nov. 2013 - Oct. 2014*
@@ -38,11 +42,16 @@ Led a 50-student staff in producing a weekly paper on a campus without a journal
 * Prevented the publication's bankruptcy by rebuilding business operations in the aftermath of a $34,000 budget shortfall
 * Developed a publication board to involve media professionals in mentoring and operational oversight, separating the paper's management from direct supervision by student government
 
-### Beaverton High School Student Newspaper
-*Sept. 2005 - May 2008 (Beaverton, Oregon)*
+---
+## Education
 
-* Served as Co-Editor-in-Chief and News Editor
-* Significant work with graphic design and page layout
+### B.S. in Civil Engineering, Montana State University
+*2008 - 2013 (Bozeman, Montana)*
+
+Completed a demanding analytical curriculum as the top graduate in my program.
+* Water resource management/environmental engineering focus
+* Independent research projects in sociology, economics and project management
+* Honors thesis: *Engagement Dynamics in MSU Student Organizations*
 
 ---
 ## Other Pursuits
@@ -51,50 +60,23 @@ Led a 50-student staff in producing a weekly paper on a campus without a journal
 **Student Project Manager, Board Member, Mentor** | *2008 - 2013*
 
 Served as a key leader in a student-managed international development program working to provide water and sanitation infrastructure at Kenyan primary schools, contributing to the program's recognition by the Association of Public Land-grant Universities in 2011 as one of the top campus-based service efforts in the nation.
-* Traveled to rural Kenya for four extended trips over a two-and-a-half-year span. Recruited, trained and managed project teams on three trips
-* Led efforts to implement a locally managed water distribution system serving more than 1,000 people 
-* Helped raise $100,000 annually through donations and grants
-* Mentored three generations of student members to help them take on responsibility for managing international construction projects
 
 
 ### Crow Environmental Health Steering Committee
 **Project Associate, Intern** | *2011 - 2013*
 
 Contributed to an NIH and USEPA-funded community-based research project, looking at health concerns around water quality on the Crow Indian Reservation in Southeast Montana. Duties included fieldwork, lab work, outreach, data management, literature review and grant application development.
-* Digitized 50 years of historical well test data to develop a Geographic Information System allowing identification of potential domestic water supply hazards
-* Traveled door-to-door in an effort to counsel residents on health implications of well test results
-* Attended the 2013 Community-Based Participatory Research Institute at San Francisco State University
-
----
-## Education
-
-### B.S. in Civil Engineering, Montana State University
-*2008 - 2013 (Bozeman, Montana)*
-
-Completed a demanding analytical curriculum as the top graduate in my program. 
-* Water resource management/environmental engineering focus
-* Independent research projects in sociology, economics and project management
-* Honors thesis: *Engagement Dynamics in MSU Student Organizations*
 
 ---
 ## Miscellanea
 
-### MSU Exponent Publication Board
+#### MSU Exponent Publication Board
 *2015 - Present*
 
 Serving on a collegiate publication advisory board, providing strategic level support and oversight for a student-managed business.
 
-### Omprakash Education through Global Engagement
-*2014 - 2016*
-
-Mentored Florida State University students through a distance learning platform, helping them prepare for international service learning trips.
-
-### Rhodes Scholarship Finalist
+#### Rhodes Scholarship Finalist
 *2012*
 
-Invited to interview for a scholarship to pursue graduate studies at Oxford University. 
-
-### Eagle Scout Rank, Boy Scouts of America
+#### Eagle Scout Rank, Boy Scouts of America
 *2007*
-
-Spent the better parts of my youth tromping around in Pacific Northwest forests, hiking, camping and staffing resident summer camps. Also taught several dozen preteen boys to tie knots.

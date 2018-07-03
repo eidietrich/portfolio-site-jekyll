@@ -1,25 +1,37 @@
 /* Site-specific css */
 
+$theme-dark: #444;
+$theme-gray: #bbb;
+$theme-light: #fff;
+$theme-accent: #207EC7; // dark accent
+$theme-accent-darker: #064D83;
+$theme-accent-2: #FFCE45;
+
+$copy-max-width: 800px;
+$content-max-width: 1200px;
+
+$font-family-serif: 'Roboto Slab', 'Garamond', serif;
+$font-family-sans: 'Montserrat', 'Helvetica Neue', sans-serif;
+
+
 body {
-  font-family: 'Roboto Slab', 'Garamond', serif;
+  font-family: $font-family-serif;
+  color: #111;
+  font-size: 16px;
 }
+
 
 /* Intro / hero image */
 .intro {
 
   width: 100%;
-  // height: 200px;
   padding-top: 5vw;
   padding-bottom: 5vw;
   height: 60vw;
 
-
   background-color: black;
-  // background-image: url(../assets/mt-2000px.jpg);
-  background-image: url(../assets/filled-walmart-time-hillshade.png);
-
+  background-image: url(../assets/walmart-time-texture.png);
   background-repeat: no-repeat;
-
   background-position: center;
   background-size: cover;
   background-attachment: scroll;
@@ -39,9 +51,6 @@ body {
   padding-right: 5vw;
   padding-top: 2vw;
   padding-bottom: 2vw;
-
-  // margin-left: 5vw;
-  // margin-right: 5vw;
 
 }
 
@@ -68,11 +77,14 @@ body {
   width: 40vw;
   color: white;
   margin-left: 5vw;
+
+  font-family: $font-family-sans;
 }
 
 
 .intro-header {
   font-size: 7vw;
+  font-weight: 800;
 
 }
 .intro-subhead {
@@ -95,7 +107,7 @@ body {
 // big screens
 @media (min-width: 1200px){
   .intro {
-    max-width: 1200px;
+    max-width: $content-max-width;
     margin: auto;
   }
   .intro-content {
@@ -116,104 +128,263 @@ body {
 
 
 /* Clips links (top of clips page) */
-.clips-section-link-container {
-  margin: auto;
-  padding-bottom: 5px;
+
+.clips-link-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5px;
 }
 
-.clips-section-link {
-
+.clips-link {
+  flex: 1 1 20%;
+  min-width: 180px;
+  max-width: 250px;
   text-align: center;
-  border: 1px solid #bbb;
-  border-radius: 4px;
-  width: 100%;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  border: 1px solid $theme-light;
+  background-color: $theme-dark;
+  box-shadow: 1px 1px 2px 1px $theme-gray;
+  color: $theme-light;
 
-  padding: 5px 5px;
-  display: inline-block;
+  padding: 10px 5px;
+
+  // padding: 5px 5px;
+  display: block;
   font-size: 16px;
-  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+  font-family: $font-family-sans;
 }
-.clips-section-link:hover{
-  background-color: #eee;
+.clips-link:visited{
+  color: $theme-light;
+}
+.clips-link:hover{
+  background-color: $theme-accent-2;
+  color: $theme-dark;
   text-decoration: none;
 }
 
-/* Page button (bottom of home page)*/
+/* Page button (bottom of pages)*/
 
-.page-button-container {
-  padding-left: 0px;
-  padding-right: 0px;
-  padding-bottom: 5px;
-  padding-top: 5px;
-  height: 60px;
-  margin: 0 auto;
+.page-buttons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .page-button {
-  // margin-right: 5px;
-  // margin-left: 5px;
-  margin: auto;
+  display: block;
+
+  flex: 1 1 auto;
+
+  margin: 5px;
+  padding: 10px 25px;
+
   text-align: center;
-  border: 1px solid #bbb;
-  border-radius: 4px;
+  background-color: $theme-dark;
+  border: 1px solid $theme-light;
+  box-shadow: 1px 1px 2px 1px $theme-gray;
 
-  padding: 15px 32px;
+  color: $theme-light;
+
+
+
   display: inline-block;
-  width: 95%;
   font-size: 16px;
-  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+  font-family: $font-family-sans;
 }
 
-.page-button:hover{
-  background-color: #eee;
+a.page-button:visited {
+  color: $theme-light;
 }
 
-/* Navbar */
-
-.navbar {
-  margin-bottom: 0px;
+a.page-button:hover{
+  background-color: $theme-accent-2;
+  text-decoration: none;
+  // border: 1px solid $theme-accent;
+  color: $theme-dark;
 }
+
+
+
 
 /* Headers */
 /* Page headers */
-h1, h3 {
-  font-family: 'Montserrat', 'Helvetica Neue', sans-serif;
+h1, h3, h4 {
+  font-family: $font-family-sans;
+  color: $theme-dark;
+  font-weight: bold;
+}
+.post-header {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .post-header h1 {
-  text-align: center;
+
 }
+
+h3 {
+  background-color: $theme-dark;
+  color: $theme-light;
+  line-height: 1.7em;
+  padding-bottom: 0.3em;
+  padding-top: 0.3em;
+
+  // multi-line padding, see https://css-tricks.com/multi-line-padded-text/
+  box-shadow: 10px 0 0 $theme-dark, -10px 0 0 $theme-dark;
+
+  font-size: calc(16px + (24 - 16) * ((100vw - 300px) / (1200 - 300)));
+}
+
+h3 > a:visited {
+  color: $theme-light;
+}
+
+h3 > a:hover {
+  background-color: $theme-accent-2;
+  box-shadow: 10px 0 0 $theme-accent-2, -10px 0 0 $theme-accent-2;
+  color: $theme-dark;
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid $theme-gray;
+}
+
+
+a {
+  color: $theme-accent;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $theme-accent-darker;
+}
+
+
 
 /* Category headers */
 .post-content h2,
 .clips-content h2 {
   text-transform: uppercase;
   font-size: 18px;
-  color: #888;
+  color: $theme-accent;
   margin-bottom: 1em;
   margin-top: 1em;
+  font-weight: bold;
 }
 
 /* Custom layout stuff */
 
 .wrapper, {
-  max-width: 800px;
-  margin: auto;
+  max-width: $copy-max-width;
+  margin: 10px auto;
 }
 
 /* Clips page formatting */
 .publication {
   text-align: center;
-  /*font-style: italic;*/
-  font-weight: bold;
+  font-style: italic;
+  font-family: $font-family-sans;
+  font-weight: 700;
 }
 .publication-date {
   text-align: center;
+  color: $theme-dark;
   /*font-weight: bold;*/
 }
-.clip-blurb p {
+
+.clip {
+  border: 1px solid $theme-gray;
+  margin-bottom: 20px;
+  // box-shadow: 1px 1px 2px 1px $theme-gray;
 }
-.clip-link {
-  text-align: center;
+
+.clip-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.clip-col {
+  &.info {
+    order: 2;
+    padding: 0 10px;
+    flex: 1 1 40%;
+    min-width: 225px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+  }
+  &.visual {
+    order: 1;
+    flex: 2 2 60%;
+    // min-width: 320px;
+    padding: 0 10px;
+  }
+}
+.clip-pub-info {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  flex: 1 0 25%;
+}
+.clip-blurb {
+  flex: 1 0 75%;
+}
+.clip-link-buttons {
+  flex: 1 0 100%;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  // justify-content: flex-end;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  .clip-link-button {
+    flex: 0 1 45%;
+
+    max-width: 150px;
+
+    cursor: pointer;
+    padding: 5px;
+    background-color: $theme-accent;
+    border: 1px solid $theme-light;
+    box-shadow: 1px 1px 2px 1px $theme-gray;
+
+    text-align: center;
+    font-family: $font-family-sans;
+    a {
+      color: $theme-light;
+      text-weight: bold;
+      text-decoration: none;
+    }
+
+    &:hover {
+      background-color: $theme-accent-2;
+      a {
+        color: $theme-dark;
+      }
+    }
+
+  }
+}
+.clip-image {
+  width: 100%;
+  margin-bottom: 10px;
+  box-shadow: 1px 1px 2px 1px $theme-gray;
 }
 
 /* Header */
@@ -223,27 +394,138 @@ h1, h3 {
   color: #fff;
   border: none;
   border-radius: 0;
+  margin-bottom: 0px;
+}
+
+/* Navbar */
+
+.navbar-wrapper {
+  max-width: $content-max-width;
+  margin: auto;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #fff;
+  color: $theme-light;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: $theme-accent-2;
+}
+
+.navbar-default .navbar-nav > li.highlight > a {
+  color: $theme-accent-2;
 }
 
 .navbar-default .navbar-brand {
-    color: #fff;
+    color: $theme-accent-2;
+    font-weight: bold;
+}
+.navbar-default .navbar-brand:hover {
+  color: $theme-accent;
 }
 .site-header {
   border-bottom: none;
 }
 
+/* page-title */
+
+.title-container {
+  height: 80px;
+  width: 100%;
+  background-image: url(../assets/walmart-time-texture.png);
+
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px 0;
+
+}
+
+.post-title {
+  color: $theme-light;
+  // color: $theme-dark;
+  background-color: rgba(6, 6, 6, 0.7);
+  // background-color: $theme-dark;
+  // flex: 0 0 auto;
+  width: 100%;
+  margin: auto;
+  padding: 10px 30px;
+}
+
+.post-content, .clips-content {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 /* Footer */
 
-.site-footer {
-  background-color: #eee;
+footer {
+  background-color: $theme-dark;
+  width: 100%;
+  min-height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  .icon {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+  }
+
+  .footer-col-wrapper {
+    display: flex;
+    // justify-content: center;
+    flex-wrap: wrap;
+
+    max-width: $content-max-width;
+    // border: 1px solid blue;
+    margin: auto;
+    text-align: center;
+  }
+  .footer-col {
+    // width: 300px;
+    flex: 1 1 33%;
+
+    // border: 1px solid red;
+    padding: 1vw 2vw;
+
+    color: $theme-light;
+
+    .footer-col-title {
+      font-size: 1.2em;
+      font-family: $font-family-sans;
+      font-weight: bold;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    a {
+      color: $theme-accent-2;
+    }
+
+    a:hover {
+      color: $theme-light;
+    }
+  }
+  .footer-col.site-info {
+    flex: 2 2 33%;
+  }
 }
+
+
 
 /* Block quote */
 blockquote {
   font-size: 14px;
   letter-spacing: 0px;
+  font-style: italic;
 }

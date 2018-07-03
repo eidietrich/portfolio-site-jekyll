@@ -1,0 +1,105 @@
+[
+    {
+        "link": "https://www.bozemandailychronicle.com/news/education/msu-s-success-with-out-of-state-students-a-boon/article_1ed0e2c9-eff2-5afa-b64f-489d2aecdeb5.html",
+        "headline": "Where they come from - Montana State University enrollment",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "Aug. 13, 2017",
+        "blurb": "<p>Maps designed to accompany another reporter's story on university enrollment trends.</p><p>Print and web versions produced with a workflow involving D3-geo, SVG Crowbar, Adobe Illustrator and ai2html.</p>",
+        "category": "Static graphics",
+        "assetName": "msu-enrollment-map.png",
+    },
+    {
+        "link": "https://montanafreepress.org/2018/06/11/mt-senate-preview/",
+        "headline": "Montana election mapping",
+        "publication": "Montana Free Press, Missoula Independent",
+        "date": "June 2018",
+        "blurb": "<p>Maps showing results for Montana's 2018 primary at the precinct and county level, published as graphics by the <a href='https://montanafreepress.org/2018/06/11/mt-senate-preview/'>Montana Free Press</a> and <a href='https://missoulanews.com/news/how-did-kathleen-williams-pull-off-the-win/article_444790cc-6f4a-11e8-a5af-4767eed55094.html'>Missoula Independent</a>. </p><p>Created with voting data from Montana's Secretary of State cleaned with Python/Pandas, mapped with D3-geo and polished for print and web publication with Adobe Illustrator.</p>",
+        "category": "Static graphics",
+
+        "assetName": "mt-2018-primary-senate-gop-web-01.png",
+    },
+    {
+        "link": "",
+        "headline": "Who comes home? Montana migration by geography and age",
+        "publication": "Montana Gap project",
+        "date": "Winter 2018",
+        "blurb": "<p>A graphic exploring the migration dynamics behind Montana's rural 'brain drain' trend by looking at net migration in and out of different categories of counties. Republished in print by High Country News.</p><p>Built with Tableau and Adobe Illustrator using data from the University of Wisconson Applied Population Lab.</p>",
+        "category": "Static graphics",
+        "assetName": "mt-migration-by-age.png"
+
+    },
+
+
+    {
+        "link": "http://206.189.229.19/",
+        "codeLink": "https://github.com/eidietrich/mt-town-vitality",
+        "headline": "Montana Explorer app",
+        "publication": "Personal project",
+        "date": "Spring 2018",
+        "blurb": "<p>Work-in-progress web app combining boundary geographies and demographic information for Montana local government entities including cities, counties and school districts.</p><p>Built in React using Mapbox GL's mapping engine and a Postgres database back end. Demo version hosted on Digital Ocean.</p>",
+        "category": "Web interactives",
+        "assetName": "mt-explorer-screenshot.png",
+    },
+    {
+        "link": "http://ericidietrich.com/bdc-reporting-viz/",
+        "codeLink": "https://github.com/eidietrich/bdc-reporting-viz",
+        "headline": "Visualized: Two years of local news",
+        "publication": "Personal project",
+        "date": "November 2017",
+        "blurb": "<p>Effort to display two years of local news reporting in a visual representation. Intended as an experiment with using interactive design to show digital audiences how consistent beat reporting follows issues over time.</p><p>Built with React and D3 and hosted on Github pages.</p>",
+        "category": "Web interactives",
+        "assetName": "bdc-reporting-viz.png"
+    },
+    {
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/living-wage/gc-living-wage/",
+        "codeLink": "https://github.com/eidietrich/gc-living-wage",
+        "headline": "What a living wage is in Bozeman — and who makes it",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "June 18, 2017",
+        "blurb": "<p>A interactive calculator using cost-of-living data from MIT to generate living wage estimates for a region increasingly concerned with housing affordability.</p><p>Built with Bootstrap and React.</p>",
+        "category": "Web interactives",
+        "assetName": "gc-living-wage.png"
+    },
+    {
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/walkability/",
+        "codeLink": "https://github.com/eidietrich/bzn-walk-map",
+        "headline": "How walkable is your Bozeman neighborhood?",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "Sept. 8, 2016",
+        "blurb": "<p>An interactive map allowing readers to explore neighborhood walkability in Bozeman, Montana, developed to accompany a piece on urban planning.</p><p>Built with Leaflet.js and vanilla JavaScript (this project taught me why people use JavaScript frameworks).</p>",
+        "category": "Web interactives",
+        "assetName": "bzn-walkability-screenshot.png"
+    },
+
+    {
+        "link": "http://www.bozemandailychronicle.com/app/newsroom/vote-mapper/",
+        "codeLink": "https://github.com/eidietrich/mt-leg-vote-viz",
+        "headline": "MTLeg vote viz creator",
+        "publication": "Bozeman Daily Chronicle",
+        "date": "Winter 2017",
+        "blurb": "<p>A simple web app inspired by Quart's <a href='http://quartz.github.io/Chartbuilder/'>Chartbuilder</a>, developed to let newsroom staff quickly produce visualizations of votes taken by the 2017 Montana Legislature, translating text copied from the state legislative web site into a responsive embed code and social media-suitable static images.</p>",
+        "category": "Newsroom tools",
+        "assetName": "mt-leg-chart-builder.png"
+    },
+
+    {
+        "link": "https://www.facebook.com/photo.php?fbid=10155347126977307&set=a.10151389462142307.1073741825.526397306&type=3&permPage=1",
+        "headline": "Montana's Walmart distances",
+        "publication": "Personal Project",
+        "date": "June 2018",
+        "blurb": "<p>Image visualizing the remoteness of different parts of Montana by showing the estimated travel time between them and the nearest Walmart.</p><p>Produced using a global 'friction surface' and adapted Google Earth Engine code published by the <a href='https://map.ox.ac.uk/research-project/accessibility_to_cities/'>Malaria Atlas Project</a>. Styling in QGIS.</p>",
+        "category": "Data art",
+        "assetName": "mt-walmart-travel-time-discrete.png"
+    },
+    {
+        "link": "http://ericidietrich.com/montana-atlas/pages/rivers-elevation.html",
+        "headline": "Montana Rivers",
+        "publication": "Personal Project",
+        "date": "Fall 2017",
+        "blurb": "<p>Major Montana waterways colored by elevation as they flow through the state.</p><p>Produced using QGIS and data available through the Montana State Library and state Fish, Wildlife and Parks department.</p>",
+        "category": "Data art",
+        "assetName": "mt-rivers.png",
+    },
+
+
+]

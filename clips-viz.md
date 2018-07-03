@@ -1,6 +1,7 @@
 ---
 layout: clips
-title: Data Design
+title: Design
+data-source: viz-clips
 permalink: /data-design/
 order: 3
 ---

@@ -15,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #ff0000;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -39,5 +39,5 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 
 @import "bootstrap"; // Added
-@import "minima";
+// @import "minima";
 @import "custom"; // Site-specific
